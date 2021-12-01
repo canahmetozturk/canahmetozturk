@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canahmetozturk
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning frontend and backend web development
+- 🌱 I’m currently into Data Science
 - 💞️ I’m looking
 - 📫 How to reach me by email
 <!---
